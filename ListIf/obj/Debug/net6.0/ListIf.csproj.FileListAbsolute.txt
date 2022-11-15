@@ -1,0 +1,15 @@
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\bin\Debug\net6.0\ListIf.exe
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\bin\Debug\net6.0\ListIf.deps.json
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\bin\Debug\net6.0\ListIf.runtimeconfig.json
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\bin\Debug\net6.0\ListIf.dll
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\bin\Debug\net6.0\ListIf.pdb
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.csproj.AssemblyReference.cache
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.AssemblyInfoInputs.cache
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.AssemblyInfo.cs
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.csproj.CoreCompileInputs.cache
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.dll
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\refint\ListIf.dll
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.pdb
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ListIf.genruntimeconfig.cache
+C:\Users\fasil\Documents\VSF\ListIf\ListIf\obj\Debug\net6.0\ref\ListIf.dll
